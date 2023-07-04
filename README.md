@@ -113,6 +113,6 @@ Code reviewers were of great help
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/MarkYegon7/Portfolio-Setup/blob/c42da773dea2de23de355c201253a80024f15bfb/LICENSE.md) licensed.
+This project is [MIT](https://github.com/MarkYegon7/Web-Portfolio/blob/7131f3b9c04efc955fec6503eb76c6af61acc06c/LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
